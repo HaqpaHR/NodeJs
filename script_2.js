@@ -41,7 +41,7 @@ class Squad {
         // return clonesquad;
     }
 }
-
+module.exports = Squad;
 
 infantryMan1 = new MilitaryResource('Infantryman',100,500);
 infantryMan2 = new MilitaryResource('Infantryman',100,500);

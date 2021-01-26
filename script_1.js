@@ -27,3 +27,5 @@ class MilitaryResource {
     }
     
 }
+
+module.exports = MilitaryResource;
